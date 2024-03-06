@@ -1,0 +1,12 @@
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Domain/bin/Debug/net7.0/TorcLib.Domain.deps.json
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Domain/bin/Debug/net7.0/TorcLib.Domain.dll
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Domain/bin/Debug/net7.0/TorcLib.Domain.pdb
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Domain/obj/Debug/net7.0/TorcLib.Domain.csproj.AssemblyReference.cache
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Domain/obj/Debug/net7.0/TorcLib.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Domain/obj/Debug/net7.0/TorcLib.Domain.AssemblyInfoInputs.cache
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Domain/obj/Debug/net7.0/TorcLib.Domain.AssemblyInfo.cs
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Domain/obj/Debug/net7.0/TorcLib.Domain.csproj.CoreCompileInputs.cache
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Domain/obj/Debug/net7.0/TorcLib.Domain.dll
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Domain/obj/Debug/net7.0/refint/TorcLib.Domain.dll
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Domain/obj/Debug/net7.0/TorcLib.Domain.pdb
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Domain/obj/Debug/net7.0/ref/TorcLib.Domain.dll

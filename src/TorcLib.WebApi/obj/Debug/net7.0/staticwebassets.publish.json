@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r6padGIYx8at5+UXlVe54JwPmpVds+dhgMEGT16NuHk=",
+  "Source": "CashFlow.WebApi",
+  "BasePath": "_content/CashFlow.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

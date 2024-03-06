@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TdPGjpm5AqjbaoCjPeNoT8ICBCWO6D08afM0P3Bj1a8=",
+  "Source": "TorcLib.WebApi",
+  "BasePath": "_content/TorcLib.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

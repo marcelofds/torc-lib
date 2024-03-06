@@ -1,0 +1,12 @@
+/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/bin/Debug/net7.0/CashFlow.Domain.deps.json
+/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/bin/Debug/net7.0/CashFlow.Domain.dll
+/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/bin/Debug/net7.0/CashFlow.Domain.pdb
+/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/obj/Debug/net7.0/CashFlow.Domain.csproj.AssemblyReference.cache
+/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/obj/Debug/net7.0/CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/obj/Debug/net7.0/CashFlow.Domain.AssemblyInfoInputs.cache
+/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/obj/Debug/net7.0/CashFlow.Domain.AssemblyInfo.cs
+/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/obj/Debug/net7.0/CashFlow.Domain.csproj.CoreCompileInputs.cache
+/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/obj/Debug/net7.0/CashFlow.Domain.dll
+/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/obj/Debug/net7.0/refint/CashFlow.Domain.dll
+/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/obj/Debug/net7.0/CashFlow.Domain.pdb
+/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/obj/Debug/net7.0/ref/CashFlow.Domain.dll

@@ -1,0 +1,11 @@
+/Users/marcelofsantos/Development/cashflow/CashFlow.WebApi/obj/rider-publish/CashFlow.Application.dll
+/Users/marcelofsantos/Development/cashflow/CashFlow.WebApi/obj/rider-publish/CashFlow.Application.deps.json
+/Users/marcelofsantos/Development/cashflow/CashFlow.WebApi/obj/rider-publish/CashFlow.Application.pdb
+/Users/marcelofsantos/Development/cashflow/CashFlow.WebApi/obj/rider-publish/Mapster.dll
+/Users/marcelofsantos/Development/cashflow/CashFlow.WebApi/obj/rider-publish/Mapster.Core.dll
+/Users/marcelofsantos/Development/cashflow/CashFlow.WebApi/obj/rider-publish/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/marcelofsantos/Development/cashflow/CashFlow.WebApi/obj/rider-publish/Microsoft.IdentityModel.Logging.dll
+/Users/marcelofsantos/Development/cashflow/CashFlow.WebApi/obj/rider-publish/Microsoft.IdentityModel.Tokens.dll
+/Users/marcelofsantos/Development/cashflow/CashFlow.WebApi/obj/rider-publish/System.IdentityModel.Tokens.Jwt.dll
+/Users/marcelofsantos/Development/cashflow/CashFlow.WebApi/obj/rider-publish/CashFlow.Domain.dll
+/Users/marcelofsantos/Development/cashflow/CashFlow.WebApi/obj/rider-publish/CashFlow.Domain.pdb

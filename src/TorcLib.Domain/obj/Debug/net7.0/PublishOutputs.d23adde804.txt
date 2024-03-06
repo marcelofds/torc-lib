@@ -1,0 +1,3 @@
+/Users/marcelofsantos/Development/cashflow/CashFlow.WebApi/obj/rider-publish/CashFlow.Domain.dll
+/Users/marcelofsantos/Development/cashflow/CashFlow.WebApi/obj/rider-publish/CashFlow.Domain.deps.json
+/Users/marcelofsantos/Development/cashflow/CashFlow.WebApi/obj/rider-publish/CashFlow.Domain.pdb

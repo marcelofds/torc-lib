@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/TorcLib.WebApi.props" />
+</Project>

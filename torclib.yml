@@ -1,0 +1,59 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata: 
+  creationTimestamp: null
+  labels:
+    app: torclib
+  name: torclib
+spec:
+  replicas: 2
+  selector:
+    matchLabels: 
+      app: torclib
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels: 
+        app: torclib
+    spec:
+      containers:
+        - name: torclib
+          image: marcelofds/torclib:latest
+          ports:
+            - containerPort: 5136
+          env:
+            - name: DB_HOST
+              value: 10.52.0.3
+            - name: DB_NAME
+              valueFrom:
+                secretKeyRef:
+                  name: gke-cloud-sql-secrets
+                  key: database
+            - name: DB_USER
+              valueFrom:
+                secretKeyRef:
+                  name: gke-cloud-sql-secrets
+                  key: username
+            - name: DB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: gke-cloud-sql-secrets
+                  key: password
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: torclib-service
+  labels:
+    app: torclib
+  namespace: default
+spec:
+  ports:
+    - port: 80
+      protocol: TCP
+      targetPort: 5136
+  selector: 
+    app: torclib
+  type: LoadBalancer 
+  

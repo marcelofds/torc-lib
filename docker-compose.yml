@@ -1,0 +1,24 @@
+version: '3.9'
+
+services:
+  db:
+    image: mssql:latest
+    container_name: db
+    ports:
+      - 1433:1433
+    environment:
+      - MSSQL_PASSWORD=<YourStrong@Passw0rd>
+      - POSTGRES_USER=sa
+      - POSTGRES_DB=torclib
+  torclib.webapi:
+    build: .
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStr: Server=db;Port=1433;Database=torclib;User Id=sa;Password=<YourStrong@Passw0rd>;
+    ports:
+      - "5136:80"
+    depends_on:
+      - db
+    networks:
+      - default
+  

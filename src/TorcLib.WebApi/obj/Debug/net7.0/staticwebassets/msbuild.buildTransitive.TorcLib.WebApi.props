@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/TorcLib.WebApi.props" />
+</Project>

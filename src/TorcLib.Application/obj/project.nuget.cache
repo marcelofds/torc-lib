@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NRnvBQeJGMe1bEQsoO1yAYHWdyl8SVRyslXKz04EQ6wVdcxKMoOVua9jSw9wkLCI8ma7a3cBknUu96U4RM3Uw==",
+  "success": true,
+  "projectFilePath": "/Users/marcelofsantos/Development/torc-library/src/TorcLib.Application/TorcLib.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcelofsantos/.nuget/packages/mapster/7.4.1-pre01/mapster.7.4.1-pre01.nupkg.sha512",
+    "/Users/marcelofsantos/.nuget/packages/mapster.core/1.2.2-pre01/mapster.core.1.2.2-pre01.nupkg.sha512",
+    "/Users/marcelofsantos/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/marcelofsantos/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.15.1/microsoft.identitymodel.jsonwebtokens.6.15.1.nupkg.sha512",
+    "/Users/marcelofsantos/.nuget/packages/microsoft.identitymodel.logging/6.15.1/microsoft.identitymodel.logging.6.15.1.nupkg.sha512",
+    "/Users/marcelofsantos/.nuget/packages/microsoft.identitymodel.tokens/6.15.1/microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
+    "/Users/marcelofsantos/.nuget/packages/system.identitymodel.tokens.jwt/6.15.1/system.identitymodel.tokens.jwt.6.15.1.nupkg.sha512",
+    "/Users/marcelofsantos/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

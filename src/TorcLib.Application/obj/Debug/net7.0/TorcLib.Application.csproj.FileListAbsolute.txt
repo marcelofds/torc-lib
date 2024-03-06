@@ -1,0 +1,15 @@
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Application/bin/Debug/net7.0/TorcLib.Application.deps.json
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Application/bin/Debug/net7.0/TorcLib.Application.dll
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Application/bin/Debug/net7.0/TorcLib.Application.pdb
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Application/bin/Debug/net7.0/TorcLib.Domain.dll
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Application/bin/Debug/net7.0/TorcLib.Domain.pdb
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Application/obj/Debug/net7.0/TorcLib.Application.csproj.AssemblyReference.cache
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Application/obj/Debug/net7.0/TorcLib.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Application/obj/Debug/net7.0/TorcLib.Application.AssemblyInfoInputs.cache
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Application/obj/Debug/net7.0/TorcLib.Application.AssemblyInfo.cs
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Application/obj/Debug/net7.0/TorcLib.Application.csproj.CoreCompileInputs.cache
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Application/obj/Debug/net7.0/TorcLib.Application.csproj.CopyComplete
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Application/obj/Debug/net7.0/TorcLib.Application.dll
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Application/obj/Debug/net7.0/refint/TorcLib.Application.dll
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Application/obj/Debug/net7.0/TorcLib.Application.pdb
+/Users/marcelofsantos/Development/torc-library/src/TorcLib.Application/obj/Debug/net7.0/ref/TorcLib.Application.dll

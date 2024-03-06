@@ -1,0 +1,361 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/marcelofsantos/Development/cashflow/WebApplication1/WebApplication1.csproj": {}
+  },
+  "projects": {
+    "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Application/CashFlow.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Application/CashFlow.Application.csproj",
+        "projectName": "CashFlow.Application",
+        "projectPath": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Application/CashFlow.Application.csproj",
+        "packagesPath": "/Users/marcelofsantos/.nuget/packages/",
+        "outputPath": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcelofsantos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/CashFlow.Domain.csproj": {
+                "projectPath": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/CashFlow.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.1-pre01, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.15.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Data/CashFlow.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Data/CashFlow.Data.csproj",
+        "projectName": "CashFlow.Data",
+        "projectPath": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Data/CashFlow.Data.csproj",
+        "packagesPath": "/Users/marcelofsantos/.nuget/packages/",
+        "outputPath": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcelofsantos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/CashFlow.Domain.csproj": {
+                "projectPath": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/CashFlow.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/CashFlow.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/CashFlow.Domain.csproj",
+        "projectName": "CashFlow.Domain",
+        "projectPath": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/CashFlow.Domain.csproj",
+        "packagesPath": "/Users/marcelofsantos/.nuget/packages/",
+        "outputPath": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcelofsantos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/marcelofsantos/Development/cashflow/src/CashFlow.IoC/CashFlow.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.IoC/CashFlow.IoC.csproj",
+        "projectName": "CashFlow.IoC",
+        "projectPath": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.IoC/CashFlow.IoC.csproj",
+        "packagesPath": "/Users/marcelofsantos/.nuget/packages/",
+        "outputPath": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.IoC/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcelofsantos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Application/CashFlow.Application.csproj": {
+                "projectPath": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Application/CashFlow.Application.csproj"
+              },
+              "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Data/CashFlow.Data.csproj": {
+                "projectPath": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.Data/CashFlow.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Mapster.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.0.2-pre01, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Scrutor.AspNetCore": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/marcelofsantos/Development/cashflow/WebApplication1/WebApplication1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcelofsantos/Development/cashflow/WebApplication1/WebApplication1.csproj",
+        "projectName": "CashFlow.WebApi",
+        "projectPath": "/Users/marcelofsantos/Development/cashflow/WebApplication1/WebApplication1.csproj",
+        "packagesPath": "/Users/marcelofsantos/.nuget/packages/",
+        "outputPath": "/Users/marcelofsantos/Development/cashflow/WebApplication1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcelofsantos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/marcelofsantos/Development/cashflow/src/CashFlow.IoC/CashFlow.IoC.csproj": {
+                "projectPath": "/Users/marcelofsantos/Development/cashflow/src/CashFlow.IoC/CashFlow.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
